@@ -73,6 +73,11 @@ Sözlükte **convolution**, **evrişim** olarak çevrilmiştir.
 - [ ] TÜBA
 - [ ] TDK
 
+## framework
+- [ ] TÜBA
+- [ ] TDK
+TDK'da **çatı, yapı, iskelet** TÜBA'da ise **çerçeve** olarak çevrilmiştir.
+
 ## generative adversarial networks
 - [ ] TÜBA
 - [ ] TDK
